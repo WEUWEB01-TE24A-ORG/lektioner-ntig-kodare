@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+body{
+    background-image: url(./bilder/fijisemester.jpg);
+    background-size: cover;
+}
+h1{
+    color: aqua;
+    font-family: "Michroma", sans-serif;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-shadow: 7.5px 7.5px 0 blue;
+    margin-left: 200px;
+}
+h2{
+    color: aquamarine;
+    font-family: "Michroma", sans-serif;
+    font-size: 40px;
+    text-shadow: 5px 5px 0 black;
+    margin-left: 550px;
+}
+p{
+    margin-left: 600px;
+    margin-top: 300px;
+}
+a{
+    color: aliceblue;
+    font-family: "Michroma", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 50px 10px 50px;
+    border-radius: 5px;
+}

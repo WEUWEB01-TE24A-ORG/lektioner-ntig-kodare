@@ -1,0 +1,24 @@
+body{
+background-image: url(kungabakgrundsmönster2.jpg);
+}
+img{
+    width: 300px;
+    margin-left: 575px;
+}
+h1{
+    color: bisque;
+    text-align: center;
+    text-shadow: 5px 5px black;
+}
+h2{
+    color: rgb(253, 217, 174);
+    text-align: center;
+    text-shadow: 5px 5px black;
+}
+h3{
+    color: rgb(255, 249, 240);
+    text-align: center;
+    text-shadow: 3px 3px black;
+    width: 500px;
+    margin-left: 475px;
+}

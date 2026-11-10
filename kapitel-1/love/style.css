@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(182, 211, 237);
+    background-image: url(./bilder/ashlee-brown-vzBmu-jpbhc-unsplash.jpg);
+    background-size: 1920px 1080px;
+}
+h1{
+    color: rgb(89, 191, 191);
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: blue;
+    font-size: 22px;
+}

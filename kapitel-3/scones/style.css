@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Michroma&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(254, 229, 191);
+}
+
+/* Sidans utseende */
+div {
+font-family: "Michroma", sans-serif;
+width: 600px;
+padding: 30px;
+margin-left: auto;
+margin-right: auto;
+background-color: antiquewhite;
+}
+
+/* Innehållets utseende */
+h1 {}
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+h2 {
+
+}
+p {}
+ul {
+    margin-left: 40px;
+}
+li {margin-left: -20px;}
+ol {}
+a {
+    color: #e0824b;
+}
