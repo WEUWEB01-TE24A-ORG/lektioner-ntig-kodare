@@ -19,12 +19,16 @@ body{
 }
 
 .A {
+
+}
+
+.C{
 width: 100px;
 background-color: bisque;
 margin-left: auto;
 margin-right: auto;
-}
-
-.C{
-    
+padding: 10px;
+border: 1px, dashed, black;
+margin-top: 10px;
+text-align: center;
 }
