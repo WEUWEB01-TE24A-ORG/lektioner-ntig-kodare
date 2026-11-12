@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Agrave+Pro:wght@100..700&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Michroma&family=Quattrocento:wght@400;700&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 /* Enkel CSS-reset */
 html {
     box-sizing: border-box;
@@ -12,23 +15,68 @@ body, h1, h2, h3, h4, h5, h6, p, ul {
 
 h1{
 text-align: center;
+color: #bc4749ff;
+    text-shadow: 1.5px 1.5px rgb(166, 55, 57);
+    font-family: "Michroma", sans-serif;
+}
+
+h2{
+    height: 25px;
+    text-align: center;
+    color: #bc4749ff;
+    text-shadow: 1px 1px rgb(166, 55, 57);
+    font-family: "Michroma", sans-serif;
 }
 
 body{
-    background-color: aqua;
+    background-color: #386641ff;
 }
 
 .A {
+margin-left: auto;
+margin-right: auto;
 
 }
 
 .C{
-width: 100px;
-background-color: bisque;
+display: flex;
+flex-direction:column;
+width: 850px;
+background-color: #6a994eff;
 margin-left: auto;
 margin-right: auto;
 padding: 10px;
-border: 1px, dashed, black;
+border: 1px, groove, #386641ff;
 margin-top: 10px;
 text-align: center;
+}
+p{
+padding: 10px;
+color: #f2e8cfff;
+text-shadow: 1px 1px rgb(230, 218, 188);
+font-family: "Michroma", sans-serif;
+}
+
+img{
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+width: 450px;
+padding: 5px;
+background-color: #386641ff;
+}
+
+:root {
+--hunter-green: #386641ff;
+--sage-green: #6a994eff;
+--yellow-green: #a7c957ff;
+--vanilla-cream: #f2e8cfff;
+--blushed-brick: #bc4749ff;
+}
+
+h3{
+    color: #f2e8cfff;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 1px 1px #bc4749ff;
 }
