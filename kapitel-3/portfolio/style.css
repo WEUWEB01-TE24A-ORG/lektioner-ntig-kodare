@@ -39,8 +39,8 @@ margin-right: auto;
 }
 
 .C{
-display: flex;
-flex-direction:column;
+/* display: flex;
+flex-direction:column; */
 width: 850px;
 background-color: #6a994eff;
 margin-left: auto;
@@ -79,4 +79,16 @@ h3{
     text-align: center;
     padding: 10px;
     text-shadow: 1px 1px #bc4749ff;
+    border: 1px groove, #386641ff;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.D {
+    padding: 10px;
+}
+
+.E {
+display: flex;
+justify-content: center;
 }
